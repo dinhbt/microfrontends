@@ -1,0 +1,3 @@
+[submodule "mfe-layout"]
+	path = mfe-layout
+	url = https://github.com/dinhbt/mfe-layout
